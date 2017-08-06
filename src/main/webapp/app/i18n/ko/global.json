@@ -1,0 +1,11 @@
+{
+  "global": {
+    "title": "Demo",
+    "menu": {
+      "home": "홈",
+      "tracker":"트래커",
+      "account": "계정",
+      "language": "언어"
+    }
+  }
+}

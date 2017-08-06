@@ -1,0 +1,9 @@
+{
+  "tracker": {
+    "title": "Tracker",
+    "tracker.table.userlogin": "사용자",
+    "tracker.table.ipaddress": "IP 주소",
+    "tracker.table.page": "현재 페이지",
+    "tracker.table.time": "시각"
+  }
+}

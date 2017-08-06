@@ -1,0 +1,11 @@
+{
+  "global": {
+    "title": "Demo",
+    "menu": {
+      "home": "首頁",
+      "tracker": "跟踪器",
+      "account": "帳戶",
+      "language": "語言"
+    }
+  }
+}

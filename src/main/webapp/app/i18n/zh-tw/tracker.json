@@ -1,0 +1,9 @@
+{
+  "tracker": {
+    "title": "Tracker",
+    "tracker.table.userlogin": "用戶",
+    "tracker.table.ipaddress": "IP地址",
+    "tracker.table.page": "當前頁面",
+    "tracker.table.time": "時間"
+  }
+}

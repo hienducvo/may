@@ -1,0 +1,9 @@
+{
+  "tracker": {
+    "title": "Tracker",
+    "tracker.table.userlogin":"Utilisateur",
+    "tracker.table.ipaddress":"Adresse IP",
+    "tracker.table.page":"Page actuelle",
+    "tracker.table.time":"Temps"
+  }
+}

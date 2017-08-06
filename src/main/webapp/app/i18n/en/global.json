@@ -1,0 +1,11 @@
+{
+  "global": {
+    "title": "Demo",
+    "menu": {
+      "home": "Home",
+      "tracker": "Tracker",
+      "account": "Account",
+      "language": "Language"
+    }
+  }
+}

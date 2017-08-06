@@ -1,0 +1,9 @@
+{
+  "tracker": {
+    "title": "Tracker",
+    "tracker.table.userlogin":"Người Đăng Nhập",
+    "tracker.table.ipaddress":"Địa Chỉ IP",
+    "tracker.table.page":"Trang Hiện Tai",
+    "tracker.table.time":"Thời Gian"
+  }
+}

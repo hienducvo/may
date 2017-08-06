@@ -1,0 +1,11 @@
+{
+  "global": {
+    "title": "Demo",
+    "menu": {
+      "home": "Trang chủ",
+      "tracker": "Theo dấu",
+      "account": "Tài Khoản",
+      "language": "Ngôn ngữ"
+    }
+  }
+}

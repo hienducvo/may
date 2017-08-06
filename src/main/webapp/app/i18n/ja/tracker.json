@@ -1,0 +1,9 @@
+{
+  "tracker": {
+    "title": "Tracker",
+    "tracker.table.userlogin":"ユーザー",
+    "tracker.table.ipaddress":"IPアドレス",
+    "tracker.table.page":"現在のページ",
+    "tracker.table.time":"時間"
+  }
+}
